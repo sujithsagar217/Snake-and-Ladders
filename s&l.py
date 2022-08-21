@@ -39,7 +39,7 @@ def welcome():
     track=0
     user_pos=0
     cpu_pos=0
-    while 1<2:
+    while True:
         sleep(1)
         print( "USER TURN")
         sleep(1)
